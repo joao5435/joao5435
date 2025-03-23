@@ -2,7 +2,7 @@
 
 [![@log](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jv6858375@gmail.com)
 
-[![@log](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vítor-48084b2b3)
+[![@log](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-vitor-48084b2b3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao5435&hide_progress=false)
 
