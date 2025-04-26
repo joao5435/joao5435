@@ -1,4 +1,10 @@
-### OLA! Eu sou o João 👋
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+<p align="left">I'm from  Brazil, i like studying programming, my favorite languages is python, and java, Soon I will learn c#</p>
+
+###
 
 [![@log](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jv6858375@gmail.com)
 
@@ -21,10 +27,24 @@ Tecnologias que mais utilizo:
 <img align="center" alt="html5" src= https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white/>
 </div>
 
+###
 
 
-<div style = "display: inline_block"><br/>
-<img align="center" alt="html5" src= https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white/>
+
+
+
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joao5435&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+
 
 
