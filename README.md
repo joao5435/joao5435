@@ -41,7 +41,7 @@ Technologies I use the most:
 
 <div align="center">
  
-</div>
+
 
 
 
