@@ -44,7 +44,7 @@ Technologies I use the most:
       />
     </td>
     <td>
-      <br />
+      <br/>
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=joao5435&theme=dark&hide_border=false"
@@ -71,7 +71,7 @@ Technologies I use the most:
 
 ---
 
-<br />
+<br/>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
