@@ -54,7 +54,8 @@ Technologies I use the most:
   </tr>
 </table>
 
---- 
+
+
 
 <p align="center">
   <a
@@ -63,12 +64,14 @@ Technologies I use the most:
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=joao5435&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
 
 ---
+
+<br />
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
