@@ -15,11 +15,11 @@
 Technologies I use the most:
 <div style="display: inline_block"><br/>
 
-<a href="https://docs.oracle.com/en/java/">
+<a href="https://docs.oracle.com/en/java/" style="text-decoration: none;">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
 
-<a href="https://docs.python.org/3/">
+<a href="https://docs.python.org/3/" style="text-decoration: none;">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
@@ -27,7 +27,7 @@ Technologies I use the most:
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>
 
@@ -37,8 +37,14 @@ Technologies I use the most:
 
 
 <div style = "display: inline_block"><br/>
-<img align="center" alt="html5" src= https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/>
-<img align="center" alt="html5" src= https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white/>
+<a href="https://dev.mysql.com/doc/" style="text-decoration: none;" >
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="https://www.mongodb.com/docs/" style="text-decoration: none;" >
+  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+
 </div>
 
 
