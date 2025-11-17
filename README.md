@@ -33,17 +33,7 @@ Technologies I use the most:
 
 </div>
 
-<div style="display: inline_block"><br/>
 
-<a href="https://dev.mysql.com/doc/">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-
-<a href="https://www.mongodb.com/docs/">
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
-
-</div>
 
 
 <div style = "display: inline_block"><br/>
