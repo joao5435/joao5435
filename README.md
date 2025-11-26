@@ -10,7 +10,6 @@
 
 [![@log](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-48084b2b3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao5435&hide_progress=false)
 
 Technologies I use the most:
 <div style="display: inline_block"><br/>
